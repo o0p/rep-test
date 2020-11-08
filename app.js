@@ -13,4 +13,4 @@ while (g !== sunNum) {
         g = parseInt(prompt ('tl'));
     }
 }
-consolel.log ('scss')
+console.log ('scss')
