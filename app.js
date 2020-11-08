@@ -1,6 +1,6 @@
 let max = parseInt(prompt ('max num'));
 
-if(!max) {
+while(!max) {
     let max = parseInt(prompt ('val num'));
 }
 const sunNum = Math.floor(Math.random() * max) + 1;
