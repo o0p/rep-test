@@ -1,1 +1,1 @@
-let max = prompt ('max num');
+let max = parseInt(prompt ('max num'));
